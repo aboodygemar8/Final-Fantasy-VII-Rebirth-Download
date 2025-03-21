@@ -19,7 +19,7 @@ The saga carries on... Having broken free from the oppressive city of Midgar, Cl
 
 #### *OC:
 
-- Windows® 10 64-bit
+- Windows® 10 / 11
 
 #### *GPU:
 
